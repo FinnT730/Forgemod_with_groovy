@@ -2,7 +2,7 @@ package com.example.examplemod
 
 import net.minecraft.block.Block
 
-class TestBlock extends Block{
+public class TestBlock extends Block {
 
 
     TestBlock(final Properties prop) {
